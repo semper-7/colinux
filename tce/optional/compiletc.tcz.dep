@@ -1,0 +1,17 @@
+binutils.tcz
+base-dev.tcz
+bison.tcz
+diffutils.tcz
+file.tcz
+findutils.tcz
+flex.tcz
+gawk.tcz
+gcc.tcz
+gperf.tcz
+grep.tcz
+m4.tcz
+make.tcz
+patch.tcz
+pkg-config.tcz
+sed.tcz
+ 
